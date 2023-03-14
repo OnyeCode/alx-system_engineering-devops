@@ -2,3 +2,5 @@
 "1-listit" file, is a script that display the contents list of your current directory.
 "2-bring_me_home" file, is a script that changes the working directory to the user’s home directory.
 "3-listfiles" file, is a script that display current directory contents in a long format.
+"4-listmorefiles", is a script that display current directory contents, including hidden files (starting with .), in the long format.
+"5-listfilesdigitonly" file, is a script that display current directory contents, in Long format, with user and group IDs displayed numerically, and hidden files (starting with .).
