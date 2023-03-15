@@ -2,3 +2,4 @@
 "1-confused_smiley" is a bash script file that displays a confused smiley "(Ôo)'.
 "2-hellofile" is a bash script file that display the content of the /etc/passwd file.
 "3-twofiles" is a bash script file that display the content of "/etc/passwd" and "/etc/hosts".
+"4-lastlines" is a bash script file that display the last 10 lines of "/etc/passwd".
