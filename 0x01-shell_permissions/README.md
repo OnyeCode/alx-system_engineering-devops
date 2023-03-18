@@ -1,1 +1,2 @@
 "0-iam_betty" file is a bash script that switches the current user to the user "betty".
+"1-who_am_i" file is a bash script that prints the effective username of the current user.
