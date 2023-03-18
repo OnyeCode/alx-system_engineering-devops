@@ -9,3 +9,4 @@
 "8-James_Bond" file is a bash script that sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions.
 "9-John_Doe" file is a bash script that sets the mode of the file hello to this: " -rwxr-x-wx ".
 "10-mirror_permissions" file is a bash script that ets the mode of the file hello the same as olleh’s mode.
+"11-directories_permissions" file is a bash script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users, and regular files should not be changed.
