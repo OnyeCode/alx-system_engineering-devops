@@ -10,3 +10,4 @@
 "9-duplicate_last_line" is a bash script file that duplicates the last line of the file iactaduplicates the last line of the file iacta.
 "10-no_more_js" is a bash script file that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 "11-directories" is a bash script file that counts the number of directories and sub-directories in the current directory.
+"12-newest_files" is a bash script file that displays the 10 newest files in the current directory.
